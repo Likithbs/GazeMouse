@@ -25,7 +25,7 @@ pip install opencv-python dlib numpy pyautogui
 ## Usage
 Run the script using:
 ```bash
-python gaze_mouse.py
+python eye_controlled_mouse.py
 ```
 
 ### Controls
